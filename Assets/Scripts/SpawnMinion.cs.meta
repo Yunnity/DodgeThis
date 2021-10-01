@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a8b7b4ab12726554b8f50679dc3bcfa9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - BlueMinion: {fileID: 5911953883393845186, guid: 3b0ce7da81774074aadf7464b628badb, type: 3}
+  - RedMinion: {fileID: 4913048181273844055, guid: 89a49b2a8f0438d40b10b724a2879e92, type: 3}
+  - prefabExplosion: {fileID: 8611321221099335305, guid: 7a66280321e398f48981d9321d51f11f, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
